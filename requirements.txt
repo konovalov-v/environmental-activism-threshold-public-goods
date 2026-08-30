@@ -1,0 +1,9 @@
+# Minimum package versions for the replication pipeline.
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+pyreadstat>=1.2
+matplotlib>=3.7
+plotly>=5.18
+kaleido>=0.2.1
